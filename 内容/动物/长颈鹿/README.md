@@ -1,6 +1,6 @@
 # 长颈鹿
 
-[上吊比树高](上吊比树高)
+[上吊比树高](%E4%B8%8A%E5%90%8A%E6%AF%94%E6%A0%91%E9%AB%98)
 
 [<img src="%E4%B8%8A%E5%90%8A%E6%AF%94%E6%A0%91%E9%AB%98/1.jpg" alt="1" width=120px>](%E4%B8%8A%E5%90%8A%E6%AF%94%E6%A0%91%E9%AB%98/1.jpg)[<img src="%E4%B8%8A%E5%90%8A%E6%AF%94%E6%A0%91%E9%AB%98/2.jpg" alt="2" width=120px>](%E4%B8%8A%E5%90%8A%E6%AF%94%E6%A0%91%E9%AB%98/2.jpg)[<img src="%E4%B8%8A%E5%90%8A%E6%AF%94%E6%A0%91%E9%AB%98/3.jpg" alt="3" width=120px>](%E4%B8%8A%E5%90%8A%E6%AF%94%E6%A0%91%E9%AB%98/3.jpg)[<img src="%E4%B8%8A%E5%90%8A%E6%AF%94%E6%A0%91%E9%AB%98/4.jpg" alt="4" width=120px>](%E4%B8%8A%E5%90%8A%E6%AF%94%E6%A0%91%E9%AB%98/4.jpg)
 

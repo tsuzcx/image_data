@@ -1,6 +1,6 @@
 # 皮卡丘
 
-[宝可梦](宝可梦)
+[宝可梦](%E5%AE%9D%E5%8F%AF%E6%A2%A6)
 
 [<img src="%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E4%B9%9D%E5%BD%A9%E5%8D%87%E5%8D%8E%E9%BD%90%E5%81%9A%E6%A2%A6.jpg" alt="九彩升华齐做梦" width=120px>](%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E4%B9%9D%E5%BD%A9%E5%8D%87%E5%8D%8E%E9%BD%90%E5%81%9A%E6%A2%A6.jpg)[<img src="%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E5%81%9A%E5%A4%9A%E9%87%8D%E5%AE%9D%E5%8F%AF%E6%A2%A6.jpg" alt="做多重宝可梦" width=120px>](%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E5%81%9A%E5%A4%9A%E9%87%8D%E5%AE%9D%E5%8F%AF%E6%A2%A6.jpg)[<img src="%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E5%81%9A%E5%AE%9D%E5%8F%AF%E6%A2%A6%C3%972.jpg" alt="做宝可梦×2" width=120px>](%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E5%81%9A%E5%AE%9D%E5%8F%AF%E6%A2%A6%C3%972.jpg)[<img src="%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%B2%A1%E4%BA%86.png" alt="宝可梦没了" width=120px>](%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%B2%A1%E4%BA%86.png)[<img src="%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E6%A2%A6%E9%86%92%E4%BA%86.jpg" alt="梦醒了" width=120px>](%E5%AE%9D%E5%8F%AF%E6%A2%A6/%E6%A2%A6%E9%86%92%E4%BA%86.jpg)
 

@@ -1,6 +1,6 @@
 # 海豹
 
-[象海豹](象海豹)
+[象海豹](%E8%B1%A1%E6%B5%B7%E8%B1%B9)
 
 [<img src="%E8%B1%A1%E6%B5%B7%E8%B1%B9/8d69a6805882a35d20fca66fe133276e_r.jpg" alt="8d69a6805882a35d20fca66fe133276e_r" width=120px>](%E8%B1%A1%E6%B5%B7%E8%B1%B9/8d69a6805882a35d20fca66fe133276e_r.jpg)[<img src="%E8%B1%A1%E6%B5%B7%E8%B1%B9/%E8%A6%81%E8%B1%B9%E8%8F%8A.jpg" alt="要豹菊" width=120px>](%E8%B1%A1%E6%B5%B7%E8%B1%B9/%E8%A6%81%E8%B1%B9%E8%8F%8A.jpg)
 

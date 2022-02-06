@@ -1,6 +1,6 @@
 # 滑稽
 
-[裹紧被子](裹紧被子)
+[裹紧被子](%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90)
 
 [<img src="%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji10.png" alt="img_huaji10" width=120px>](%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji10.png)[<img src="%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji11.png" alt="img_huaji11" width=120px>](%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji11.png)[<img src="%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji12.png" alt="img_huaji12" width=120px>](%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji12.png)[<img src="%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji13.png" alt="img_huaji13" width=120px>](%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji13.png)[<img src="%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji14.png" alt="img_huaji14" width=120px>](%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji14.png)[<img src="%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji15.png" alt="img_huaji15" width=120px>](%E8%A3%B9%E7%B4%A7%E8%A2%AB%E5%AD%90/img_huaji15.png)
 

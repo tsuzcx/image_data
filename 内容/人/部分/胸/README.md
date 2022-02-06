@@ -1,6 +1,6 @@
 # 胸
 
-[乳腺癌](乳腺癌)
+[乳腺癌](%E4%B9%B3%E8%85%BA%E7%99%8C)
 
 [<img src="%E4%B9%B3%E8%85%BA%E7%99%8C/1.gif" alt="1" height=150px>](%E4%B9%B3%E8%85%BA%E7%99%8C/1.gif)[<img src="%E4%B9%B3%E8%85%BA%E7%99%8C/2.gif" alt="2" height=150px>](%E4%B9%B3%E8%85%BA%E7%99%8C/2.gif)[<img src="%E4%B9%B3%E8%85%BA%E7%99%8C/3.gif" alt="3" height=150px>](%E4%B9%B3%E8%85%BA%E7%99%8C/3.gif)[<img src="%E4%B9%B3%E8%85%BA%E7%99%8C/4.gif" alt="4" height=150px>](%E4%B9%B3%E8%85%BA%E7%99%8C/4.gif)[<img src="%E4%B9%B3%E8%85%BA%E7%99%8C/5.gif" alt="5" height=150px>](%E4%B9%B3%E8%85%BA%E7%99%8C/5.gif)[<img src="%E4%B9%B3%E8%85%BA%E7%99%8C/6.gif" alt="6" height=150px>](%E4%B9%B3%E8%85%BA%E7%99%8C/6.gif)
 

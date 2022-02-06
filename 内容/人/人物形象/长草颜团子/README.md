@@ -1,6 +1,6 @@
 # 长草颜团子
 
-[吃东西](吃东西)
+[吃东西](%E5%90%83%E4%B8%9C%E8%A5%BF)
 
 [<img src="%E5%90%83%E4%B8%9C%E8%A5%BF/c9.gif" alt="c9" width=120px>](%E5%90%83%E4%B8%9C%E8%A5%BF/c9.gif)[<img src="%E5%90%83%E4%B8%9C%E8%A5%BF/e1_%E4%BD%A0%E5%9C%A8%E5%90%83%E4%BB%80%E4%B9%88.jpg" alt="e1_你在吃什么" width=120px>](%E5%90%83%E4%B8%9C%E8%A5%BF/e1_%E4%BD%A0%E5%9C%A8%E5%90%83%E4%BB%80%E4%B9%88.jpg)[<img src="%E5%90%83%E4%B8%9C%E8%A5%BF/e2_%E6%88%91%E4%B8%8D%E5%90%83.jpg" alt="e2_我不吃" width=120px>](%E5%90%83%E4%B8%9C%E8%A5%BF/e2_%E6%88%91%E4%B8%8D%E5%90%83.jpg)[<img src="%E5%90%83%E4%B8%9C%E8%A5%BF/e3_%E4%B8%8D%E5%90%83.jpg" alt="e3_不吃" width=120px>](%E5%90%83%E4%B8%9C%E8%A5%BF/e3_%E4%B8%8D%E5%90%83.jpg)[<img src="%E5%90%83%E4%B8%9C%E8%A5%BF/e4_%E4%B8%8D_%E5%90%83.jpg" alt="e4_不_吃" width=120px>](%E5%90%83%E4%B8%9C%E8%A5%BF/e4_%E4%B8%8D_%E5%90%83.jpg)[<img src="%E5%90%83%E4%B8%9C%E8%A5%BF/e5_%E6%83%B3%E5%90%83.jpg" alt="e5_想吃" width=120px>](%E5%90%83%E4%B8%9C%E8%A5%BF/e5_%E6%83%B3%E5%90%83.jpg)
 

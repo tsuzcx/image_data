@@ -81,7 +81,8 @@ def format_img(rfn:str,pfn:str):
     return img
 
 def format_prev(name:str,imgs:list):
-    a = f'[{name}]({name})'
+    ufn = parse.quote(name)
+    a = f'[{name}]({ufn})'
     imgs = [format_img(*t) for t in imgs]
     imgs = ''.join(imgs)
     if imgs:

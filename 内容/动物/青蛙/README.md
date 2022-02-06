@@ -1,6 +1,6 @@
 # 青蛙
 
-[青蛙系列](青蛙系列)
+[青蛙系列](%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97)
 
 [<img src="%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/just%20do%20it.jpg" alt="just do it" width=120px>](%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/just%20do%20it.jpg)[<img src="%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/oldman_v.gif" alt="oldman_v" width=120px>](%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/oldman_v.gif)[<img src="%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/%E4%B8%80%E4%B8%AA%E4%B8%AA%E7%BB%AD_%E4%B8%8D%E8%A6%81%E6%80%A5.jpeg" alt="一个个续_不要急" width=120px>](%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/%E4%B8%80%E4%B8%AA%E4%B8%AA%E7%BB%AD_%E4%B8%8D%E8%A6%81%E6%80%A5.jpeg)[<img src="%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/%E4%B8%80%E5%91%A8%E7%8A%B6%E6%80%81.jpg" alt="一周状态" width=120px>](%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/%E4%B8%80%E5%91%A8%E7%8A%B6%E6%80%81.jpg)[<img src="%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/%E4%B8%80%E8%84%B8naive.jpg" alt="一脸naive" width=120px>](%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/%E4%B8%80%E8%84%B8naive.jpg)[<img src="%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/%E5%90%B9%E5%91%80%E5%90%B9%E5%91%80%E6%88%91%E7%9A%84%E9%AA%84%E5%82%B2%E6%94%BE%E7%BA%B5.jpg" alt="吹呀吹呀我的骄傲放纵" width=120px>](%E9%9D%92%E8%9B%99%E7%B3%BB%E5%88%97/%E5%90%B9%E5%91%80%E5%90%B9%E5%91%80%E6%88%91%E7%9A%84%E9%AA%84%E5%82%B2%E6%94%BE%E7%BA%B5.jpg)
 

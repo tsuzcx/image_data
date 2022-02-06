@@ -1,6 +1,6 @@
 # 正常斑纹
 
-[猫猫2](猫猫2)
+[猫猫2](%E7%8C%AB%E7%8C%AB2)
 
 [<img src="%E7%8C%AB%E7%8C%AB2/0622b78a5ff1befdb1b99f3c4334fd0a.jpg" alt="0622b78a5ff1befdb1b99f3c4334fd0a" width=120px>](%E7%8C%AB%E7%8C%AB2/0622b78a5ff1befdb1b99f3c4334fd0a.jpg)[<img src="%E7%8C%AB%E7%8C%AB2/2b302f98575f1711dc6b0631cccf4901.jpg" alt="2b302f98575f1711dc6b0631cccf4901" width=120px>](%E7%8C%AB%E7%8C%AB2/2b302f98575f1711dc6b0631cccf4901.jpg)[<img src="%E7%8C%AB%E7%8C%AB2/b8fe753e18bb554ab81f48348d61c1ed.jpg" alt="b8fe753e18bb554ab81f48348d61c1ed" width=120px>](%E7%8C%AB%E7%8C%AB2/b8fe753e18bb554ab81f48348d61c1ed.jpg)
 
