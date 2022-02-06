@@ -1,12 +1,15 @@
 import os
 from urllib import parse
+import matplotlib.pyplot as plt
 
 fns_ignore = {'.git','.gitignore'}
 sufs_ignore = {
     'py','md',
-    'avi','mp4','flv',
+    'avi','mp4','flv','wmv','mpg',
     }
 prev_count = 6
+img_max_width = 120
+img_max_height = 150
 
 def is_img_file(fn:str):
     suf = fn.rsplit('.',1)[-1]
@@ -24,7 +27,7 @@ def sample_dir(path:str,root=''):
         pfn = url_join(root,fn)
         if os.path.isfile(rfn):
             if is_img_file(fn):
-                yield pfn
+                yield rfn,pfn
             continue
         it = sample_dir(rfn,pfn)
         yield next(it)
@@ -47,7 +50,7 @@ def preview_dir(path:str):
         rfn = os.path.join(path,fn)
         if os.path.isfile(rfn):
             if is_img_file(fn):
-                imgs.append(fn)
+                imgs.append((rfn,fn))
             continue
         prevs = []
         for _,t in zip(range(prev_count),sample_dir(rfn,fn)):
@@ -55,14 +58,31 @@ def preview_dir(path:str):
         subprev.append((fn,prevs))
     return imgs,subprev
 
-def format_img(pfn:str):
+def format_img(rfn:str,pfn:str):
+    args = ['img']
     t = parse.quote(pfn)
-    img = f'[<img src="{t}">]({pfn})'
+    args.append(f'src="{t}"')
+    name = pfn.rsplit('/',1)[-1]
+    name = name.rsplit('.',1)[0]
+    args.append(f'alt="{name}"')
+    t = plt.imread(rfn)
+    if t is None:
+        print(rfn)
+    h,w,*_ = t.shape
+    pw = w / img_max_width
+    ph = h / img_max_height
+    if pw > 1 or ph > 1:
+        if pw > ph:
+            args.append(f'width={img_max_width}px')
+        else:
+            args.append(f'height={img_max_height}px')
+    args = ' '.join(args)
+    img = f'[<{args}>]({pfn})'
     return img
 
 def format_prev(name:str,imgs:list):
     a = f'[{name}]({name})'
-    imgs = [format_img(img) for img in imgs]
+    imgs = [format_img(*t) for t in imgs]
     imgs = ''.join(imgs)
     if imgs:
         a += '\n\n' + imgs
@@ -72,7 +92,7 @@ def format_dir(imgs:list,subprev:list):
     t = []
     for name,prev in subprev:
         t.append(format_prev(name,prev))
-    imgs = [format_img(img) for img in imgs]
+    imgs = [format_img(*t) for t in imgs]
     imgs = ''.join(imgs)
     if imgs:
         t.append(imgs)
