@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 fns_ignore = {'.git','.gitignore'}
 sufs_ignore = {
     'py','md',
-    'avi','mp4','flv','wmv','mpg',
+    'avi','mp4','flv','wmv','mpg','svg',
     }
 prev_count = 6
 img_max_width = 120

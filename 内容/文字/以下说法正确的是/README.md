@@ -1,0 +1,3 @@
+# 以下说法正确的是
+
+[<img src="9f8127a490546782218e42e76dbe773b.jpg" alt="9f8127a490546782218e42e76dbe773b" width=120px>](9f8127a490546782218e42e76dbe773b.jpg)[<img src="cd39941bd7adaa261fd42a66bbf62b07.jpg" alt="cd39941bd7adaa261fd42a66bbf62b07" width=120px>](cd39941bd7adaa261fd42a66bbf62b07.jpg)[<img src="e3e25653e4b8ea7b8bb85483a7704015.jpg" alt="e3e25653e4b8ea7b8bb85483a7704015" height=150px>](e3e25653e4b8ea7b8bb85483a7704015.jpg)

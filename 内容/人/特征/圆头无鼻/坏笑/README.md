@@ -1,0 +1,3 @@
+# 坏笑
+
+[<img src="%E6%9C%89%E6%9C%BA%E4%BC%9A%E4%B8%80%E8%B5%B7%E5%AD%A6%E4%B9%A0.jpg" alt="有机会一起学习" width=120px>](%E6%9C%89%E6%9C%BA%E4%BC%9A%E4%B8%80%E8%B5%B7%E5%AD%A6%E4%B9%A0.jpg)[<img src="%E6%9C%89%E6%9C%BA%E4%BC%9A%E4%B8%80%E8%B5%B7%E6%8C%82%E7%A7%91.jpg" alt="有机会一起挂科" width=120px>](%E6%9C%89%E6%9C%BA%E4%BC%9A%E4%B8%80%E8%B5%B7%E6%8C%82%E7%A7%91.jpg)[<img src="%E6%9C%89%E6%9C%BA%E4%BC%9A%E4%B8%80%E8%B5%B7%E7%9D%A1%E8%A7%89.jpg" alt="有机会一起睡觉" width=120px>](%E6%9C%89%E6%9C%BA%E4%BC%9A%E4%B8%80%E8%B5%B7%E7%9D%A1%E8%A7%89.jpg)

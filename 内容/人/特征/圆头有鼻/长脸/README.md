@@ -1,0 +1,3 @@
+# 长脸
+
+[<img src="excuse%20me.jpg" alt="excuse me" width=120px>](excuse%20me.jpg)[<img src="v2-2267f7f270da521ea038258f7b476535_720w.jpg" alt="v2-2267f7f270da521ea038258f7b476535_720w">](v2-2267f7f270da521ea038258f7b476535_720w.jpg)[<img src="%E5%8E%BB%E4%BD%A0%E7%9A%84%E8%80%81%E5%AD%90%E4%B8%8D%E8%AF%BB%E4%BA%86.jpeg" alt="去你的老子不读了" width=120px>](%E5%8E%BB%E4%BD%A0%E7%9A%84%E8%80%81%E5%AD%90%E4%B8%8D%E8%AF%BB%E4%BA%86.jpeg)[<img src="%E5%AE%89%E9%9D%99_%E5%90%B5%E5%88%B0%E6%88%91%E5%AD%A6%E4%B9%A0%E4%BA%86.jpg" alt="安静_吵到我学习了" width=120px>](%E5%AE%89%E9%9D%99_%E5%90%B5%E5%88%B0%E6%88%91%E5%AD%A6%E4%B9%A0%E4%BA%86.jpg)[<img src="%E5%B0%B4%E5%B0%AC.jpg" alt="尴尬">](%E5%B0%B4%E5%B0%AC.jpg)

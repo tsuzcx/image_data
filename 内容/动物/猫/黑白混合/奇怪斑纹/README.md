@@ -1,0 +1,3 @@
+# 奇怪斑纹
+
+[<img src="29e772c340d490373bf9fd3005d8d487.jpg" alt="29e772c340d490373bf9fd3005d8d487" width=120px>](29e772c340d490373bf9fd3005d8d487.jpg)[<img src="7e48b734679f2bd7b38689d0fc16dafd.jpg" alt="7e48b734679f2bd7b38689d0fc16dafd" width=120px>](7e48b734679f2bd7b38689d0fc16dafd.jpg)[<img src="e09805de869a2225f6d6024b21d330c5.jpg" alt="e09805de869a2225f6d6024b21d330c5" width=120px>](e09805de869a2225f6d6024b21d330c5.jpg)[<img src="f0a7d5bbe828c6b026a21d09b4d8a89a.jpg" alt="f0a7d5bbe828c6b026a21d09b4d8a89a" width=120px>](f0a7d5bbe828c6b026a21d09b4d8a89a.jpg)[<img src="%E5%B0%B1%E8%BF%99.jpg" alt="就这" width=120px>](%E5%B0%B1%E8%BF%99.jpg)
