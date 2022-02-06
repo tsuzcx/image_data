@@ -1,3 +1,3 @@
 # 马云
 
-[<img src="%E4%B8%8D%E5%B0%B1%E6%98%AF%E9%92%B1%E5%90%97_%E9%A9%AC%E4%BA%91.jpg" alt="不就是钱吗_马云" width=120px>](不就是钱吗_马云.jpg)[<img src="%E9%92%B1%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%AE%B9%E6%98%93%E5%BE%97%E5%88%B0%E7%9A%84%E4%BA%8B%E6%83%85.gif" alt="钱是世界上最容易得到的事情" height=150px>](钱是世界上最容易得到的事情.gif)
+[<img src="%E4%B8%8D%E5%B0%B1%E6%98%AF%E9%92%B1%E5%90%97_%E9%A9%AC%E4%BA%91.jpg" alt="不就是钱吗_马云" width=120px>](%E4%B8%8D%E5%B0%B1%E6%98%AF%E9%92%B1%E5%90%97_%E9%A9%AC%E4%BA%91.jpg)[<img src="%E9%92%B1%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%AE%B9%E6%98%93%E5%BE%97%E5%88%B0%E7%9A%84%E4%BA%8B%E6%83%85.gif" alt="钱是世界上最容易得到的事情" height=150px>](%E9%92%B1%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%AE%B9%E6%98%93%E5%BE%97%E5%88%B0%E7%9A%84%E4%BA%8B%E6%83%85.gif)

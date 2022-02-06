@@ -1,3 +1,3 @@
 # 外交官
 
-[<img src="%E4%BD%A0%E7%9A%84%E4%B8%8D%E6%87%82%E4%BA%8B%E8%AE%A9%E6%88%91%E5%BF%83%E7%97%9B.jpg" alt="你的不懂事让我心痛" width=120px>](你的不懂事让我心痛.jpg)[<img src="%E5%8D%96%E8%8A%92%E6%9E%9C%E7%9A%84%E5%87%BA%E5%8E%BB.jpg" alt="卖芒果的出去" width=120px>](卖芒果的出去.jpg)[<img src="%E5%A4%96%E4%BA%A4%E5%AE%98%E7%9C%BC%E7%A5%9E.gif" alt="外交官眼神" width=120px>](外交官眼神.gif)
+[<img src="%E4%BD%A0%E7%9A%84%E4%B8%8D%E6%87%82%E4%BA%8B%E8%AE%A9%E6%88%91%E5%BF%83%E7%97%9B.jpg" alt="你的不懂事让我心痛" width=120px>](%E4%BD%A0%E7%9A%84%E4%B8%8D%E6%87%82%E4%BA%8B%E8%AE%A9%E6%88%91%E5%BF%83%E7%97%9B.jpg)[<img src="%E5%8D%96%E8%8A%92%E6%9E%9C%E7%9A%84%E5%87%BA%E5%8E%BB.jpg" alt="卖芒果的出去" width=120px>](%E5%8D%96%E8%8A%92%E6%9E%9C%E7%9A%84%E5%87%BA%E5%8E%BB.jpg)[<img src="%E5%A4%96%E4%BA%A4%E5%AE%98%E7%9C%BC%E7%A5%9E.gif" alt="外交官眼神" width=120px>](%E5%A4%96%E4%BA%A4%E5%AE%98%E7%9C%BC%E7%A5%9E.gif)

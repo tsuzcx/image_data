@@ -60,8 +60,8 @@ def preview_dir(path:str):
 
 def format_img(rfn:str,pfn:str):
     args = ['img']
-    t = parse.quote(pfn)
-    args.append(f'src="{t}"')
+    ufn = parse.quote(pfn)
+    args.append(f'src="{ufn}"')
     name = pfn.rsplit('/',1)[-1]
     name = name.rsplit('.',1)[0]
     args.append(f'alt="{name}"')
@@ -77,7 +77,7 @@ def format_img(rfn:str,pfn:str):
         else:
             args.append(f'height={img_max_height}px')
     args = ' '.join(args)
-    img = f'[<{args}>]({pfn})'
+    img = f'[<{args}>]({ufn})'
     return img
 
 def format_prev(name:str,imgs:list):
