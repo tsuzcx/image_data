@@ -1,0 +1,3 @@
+# 懵逼
+
+[<img src="Michael%E6%87%B5%E9%80%BC.jpeg">](Michael懵逼.jpeg)[<img src="%E4%B8%80%E8%84%B8%E6%87%B5%E9%80%BC.gif">](一脸懵逼.gif)[<img src="%E4%BD%93%E5%BF%83%E7%AB%8B%E6%96%B9%E6%87%B5%E9%80%BC.jpeg">](体心立方懵逼.jpeg)[<img src="%E5%B0%96%E6%99%B6%E7%9F%B3%E5%9E%8B%E6%87%B5%E9%80%BC.jpeg">](尖晶石型懵逼.jpeg)[<img src="%E6%87%B5%E9%80%BC%E5%81%B6%E5%83%8F%E7%BB%84%E5%90%88.jpg">](懵逼偶像组合.jpg)[<img src="%E7%AB%8B%E6%96%B9ZnS%E5%9E%8B%E6%87%B5%E9%80%BC.jpeg">](立方ZnS型懵逼.jpeg)[<img src="%E7%AE%80%E5%8D%95%E7%AB%8B%E6%96%B9%E6%87%B5%E9%80%BC.jpeg">](简单立方懵逼.jpeg)[<img src="%E9%87%91%E7%BA%A2%E7%9F%B3%E5%9E%8B%E6%87%B5%E9%80%BC.jpeg">](金红石型懵逼.jpeg)

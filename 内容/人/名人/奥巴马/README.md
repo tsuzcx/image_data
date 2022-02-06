@@ -1,0 +1,3 @@
+# 奥巴马
+
+[<img src="v2-2a3017ed4769b2316df6fd6adcbba667_b.jpg">](v2-2a3017ed4769b2316df6fd6adcbba667_b.jpg)[<img src="v2-45bb31f780c66067683162db4da9acd6_b.jpg">](v2-45bb31f780c66067683162db4da9acd6_b.jpg)[<img src="v2-9ca8e65c5f5ee3ed0e3ea58ba8d4375b_b.jpg">](v2-9ca8e65c5f5ee3ed0e3ea58ba8d4375b_b.jpg)[<img src="v2-b5ba5e9dc98cc90f808f8a3459b8d24f_b.jpg">](v2-b5ba5e9dc98cc90f808f8a3459b8d24f_b.jpg)[<img src="%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%A3%85%E9%80%BC%E6%92%9E%E6%A0%91.gif">](奥巴马装逼撞树.gif)

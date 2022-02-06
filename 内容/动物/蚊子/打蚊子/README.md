@@ -1,0 +1,3 @@
+# 打蚊子
+
+[<img src="9a3d4924e5c50bfd51e7a463933510cd.jpg">](9a3d4924e5c50bfd51e7a463933510cd.jpg)[<img src="d858609c137401b9043e7f5f2d5d0123.jpg">](d858609c137401b9043e7f5f2d5d0123.jpg)[<img src="%E5%94%89%2C%E6%88%91%E8%AE%A4%E4%B8%BA%E6%88%91%E9%A3%9E%E5%BE%97%E4%B8%8D%E5%A4%9F%E5%A5%BD_1_%E4%BA%BA7_%28%E5%8A%A0_.jpg">](唉,我认为我飞得不够好_1_人7_(加_.jpg)[<img src="%E6%80%8E%E6%A0%B7%E6%89%93%E6%9C%8B%E5%8F%8B%E4%B8%8D%E8%AE%A9%E4%BB%96%E7%94%9F%E6%B0%94.jpg">](怎样打朋友不让他生气.jpg)

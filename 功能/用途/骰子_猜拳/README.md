@@ -1,0 +1,3 @@
+# 骰子_猜拳
+
+[<img src="1.gif">](1.gif)[<img src="2.gif">](2.gif)[<img src="3.gif">](3.gif)[<img src="4.gif">](4.gif)[<img src="4N.gif">](4N.gif)[<img src="5.gif">](5.gif)[<img src="6.gif">](6.gif)[<img src="7.gif">](7.gif)[<img src="8.gif">](8.gif)[<img src="9.gif">](9.gif)[<img src="%E4%B8%AD.gif">](中.gif)[<img src="%E4%BA%BF.gif">](亿.gif)[<img src="%E5%89%AA%E5%88%80.gif">](剪刀.gif)[<img src="%E5%B8%83.gif">](布.gif)[<img src="%E7%9F%B3%E5%A4%B4.gif">](石头.gif)

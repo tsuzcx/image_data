@@ -1,0 +1,71 @@
+# 生活相关
+
+[不关心别人最后自己倒霉](不关心别人最后自己倒霉)
+
+[<img src="%E4%B8%8D%E5%85%B3%E5%BF%83%E5%88%AB%E4%BA%BA%E6%9C%80%E5%90%8E%E8%87%AA%E5%B7%B1%E5%80%92%E9%9C%89/7d1ef220b6ec53fedb59fb9ef16a2cff.jpg">](不关心别人最后自己倒霉/7d1ef220b6ec53fedb59fb9ef16a2cff.jpg)[<img src="%E4%B8%8D%E5%85%B3%E5%BF%83%E5%88%AB%E4%BA%BA%E6%9C%80%E5%90%8E%E8%87%AA%E5%B7%B1%E5%80%92%E9%9C%89/9276e4bbf0953c6c3ee997375f4c7ec0.jpg">](不关心别人最后自己倒霉/9276e4bbf0953c6c3ee997375f4c7ec0.jpg)
+
+---
+
+[令人崩溃的场景](令人崩溃的场景)
+
+[<img src="%E4%BB%A4%E4%BA%BA%E5%B4%A9%E6%BA%83%E7%9A%84%E5%9C%BA%E6%99%AF/18b2c33e5e0c5aab70138ebdd2b265ce.gif">](令人崩溃的场景/18b2c33e5e0c5aab70138ebdd2b265ce.gif)[<img src="%E4%BB%A4%E4%BA%BA%E5%B4%A9%E6%BA%83%E7%9A%84%E5%9C%BA%E6%99%AF/1c4299a4cc54bb543a670a4793668b47.gif">](令人崩溃的场景/1c4299a4cc54bb543a670a4793668b47.gif)[<img src="%E4%BB%A4%E4%BA%BA%E5%B4%A9%E6%BA%83%E7%9A%84%E5%9C%BA%E6%99%AF/1fe1d44922a4b6d2103a523fe097706a.gif">](令人崩溃的场景/1fe1d44922a4b6d2103a523fe097706a.gif)[<img src="%E4%BB%A4%E4%BA%BA%E5%B4%A9%E6%BA%83%E7%9A%84%E5%9C%BA%E6%99%AF/3b1932743dc38791d3ca1d5ff3cf902a.gif">](令人崩溃的场景/3b1932743dc38791d3ca1d5ff3cf902a.gif)[<img src="%E4%BB%A4%E4%BA%BA%E5%B4%A9%E6%BA%83%E7%9A%84%E5%9C%BA%E6%99%AF/46ab38301f887bade82da1672c901bec.gif">](令人崩溃的场景/46ab38301f887bade82da1672c901bec.gif)[<img src="%E4%BB%A4%E4%BA%BA%E5%B4%A9%E6%BA%83%E7%9A%84%E5%9C%BA%E6%99%AF/4eb555fb63994ab93db838cc9d9a3e65.gif">](令人崩溃的场景/4eb555fb63994ab93db838cc9d9a3e65.gif)
+
+---
+
+[令人讨厌](令人讨厌)
+
+[<img src="%E4%BB%A4%E4%BA%BA%E8%AE%A8%E5%8E%8C/1571372319581.jpeg">](令人讨厌/1571372319581.jpeg)[<img src="%E4%BB%A4%E4%BA%BA%E8%AE%A8%E5%8E%8C/%E6%89%AB%E7%A0%81%E9%A2%86%E7%BA%A2%E5%8C%85.jpg">](令人讨厌/扫码领红包.jpg)[<img src="%E4%BB%A4%E4%BA%BA%E8%AE%A8%E5%8E%8C/%E6%94%B6%E5%88%B0%E7%A6%8F%E8%A2%8B.jpg">](令人讨厌/收到福袋.jpg)[<img src="%E4%BB%A4%E4%BA%BA%E8%AE%A8%E5%8E%8C/%E7%A6%8F%E8%A2%8B.jpg">](令人讨厌/福袋.jpg)[<img src="%E4%BB%A4%E4%BA%BA%E8%AE%A8%E5%8E%8C/%E9%9F%B3%E4%B9%90%E7%8E%AF%E7%BB%95.jpg">](令人讨厌/音乐环绕.jpg)
+
+---
+
+[你撒币吗](你撒币吗)
+
+[<img src="%E4%BD%A0%E6%92%92%E5%B8%81%E5%90%97/%E4%B8%8D%E6%88%91%E6%8D%A1%E5%B8%81.jpeg">](你撒币吗/不我捡币.jpeg)[<img src="%E4%BD%A0%E6%92%92%E5%B8%81%E5%90%97/%E4%B8%8D%E6%88%91%E6%9D%80%E7%AC%94.jpeg">](你撒币吗/不我杀笔.jpeg)[<img src="%E4%BD%A0%E6%92%92%E5%B8%81%E5%90%97/%E4%B8%8D%E6%88%91%E8%B4%A9%E5%89%91.jpeg">](你撒币吗/不我贩剑.jpeg)[<img src="%E4%BD%A0%E6%92%92%E5%B8%81%E5%90%97/%E4%BD%A0%E4%BD%BF%E7%8F%A0%E5%90%97.jpeg">](你撒币吗/你使珠吗.jpeg)[<img src="%E4%BD%A0%E6%92%92%E5%B8%81%E5%90%97/%E4%BD%A0%E4%BD%BF%E9%92%A9%E5%90%97.jpeg">](你撒币吗/你使钩吗.jpeg)[<img src="%E4%BD%A0%E6%92%92%E5%B8%81%E5%90%97/%E4%BD%A0%E5%88%B6%E6%9D%96%E5%90%97%281%29.jpeg">](你撒币吗/你制杖吗(1).jpeg)
+
+---
+
+[假系列](假系列)
+
+[<img src="%E5%81%87%E7%B3%BB%E5%88%97/%E4%BD%86%E6%88%91%E7%8E%A9%E7%9A%84%E6%98%AF%E7%9C%9F%E7%9A%84%E6%89%8B%E6%9C%BA.jpg">](假系列/但我玩的是真的手机.jpg)[<img src="%E5%81%87%E7%B3%BB%E5%88%97/%E4%BD%A0%E5%96%B7%E7%9A%84%E5%8F%8A%E6%A0%BC%E5%96%B7%E9%9B%BE%E9%83%BD%E6%98%AF%E5%81%87%E9%85%92.jpg">](假系列/你喷的及格喷雾都是假酒.jpg)[<img src="%E5%81%87%E7%B3%BB%E5%88%97/%E5%88%AB%E9%80%97%E4%BA%86%E6%88%91%E5%93%AA%E6%9C%89%E4%B9%A6.jpg">](假系列/别逗了我哪有书.jpg)[<img src="%E5%81%87%E7%B3%BB%E5%88%97/%E6%88%91%E5%8F%AF%E8%83%BD_%E5%81%87_%E7%B4%A0%E6%9D%90.jpg">](假系列/我可能_假_素材.jpg)[<img src="%E5%81%87%E7%B3%BB%E5%88%97/%E6%88%91%E5%8F%AF%E8%83%BD%E4%BA%A4%E4%BA%86%E5%81%87%E7%94%B7%E7%A5%A8.jpeg">](假系列/我可能交了假男票.jpeg)[<img src="%E5%81%87%E7%B3%BB%E5%88%97/%E6%88%91%E5%8F%AF%E8%83%BD%E5%81%9A%E4%BA%86%E5%B0%8F%E5%8D%96%E9%83%A8%E5%81%87%E5%8D%B7%E5%AD%90.jpg">](假系列/我可能做了小卖部假卷子.jpg)
+
+---
+
+[内向](内向)
+
+[<img src="%E5%86%85%E5%90%91/0ed4392d67ffccaf85e6af303125a814.jpg">](内向/0ed4392d67ffccaf85e6af303125a814.jpg)[<img src="%E5%86%85%E5%90%91/2e01790c8e7ecdbe24bdd64c983c8206.jpg">](内向/2e01790c8e7ecdbe24bdd64c983c8206.jpg)[<img src="%E5%86%85%E5%90%91/414ea8b96433bd929d16af4f08939f5d.jpg">](内向/414ea8b96433bd929d16af4f08939f5d.jpg)[<img src="%E5%86%85%E5%90%91/424fd8488c58d4bbc8be84d63118b072.jpg">](内向/424fd8488c58d4bbc8be84d63118b072.jpg)[<img src="%E5%86%85%E5%90%91/5a26939edcb1fb6592487dcc8f592291.jpg">](内向/5a26939edcb1fb6592487dcc8f592291.jpg)[<img src="%E5%86%85%E5%90%91/909985ae9aee25f507664e87228c6b60.jpg">](内向/909985ae9aee25f507664e87228c6b60.jpg)
+
+---
+
+[吃瓜](吃瓜)
+
+[<img src="%E5%90%83%E7%93%9C/%E4%BB%8A%E6%97%A5%E5%BE%AE%E5%8D%9A_%E5%90%83%E7%93%9C.jpg">](吃瓜/今日微博_吃瓜.jpg)[<img src="%E5%90%83%E7%93%9C/%E5%90%83%E7%93%9C%281%29.jpg">](吃瓜/吃瓜(1).jpg)[<img src="%E5%90%83%E7%93%9C/%E5%90%83%E7%93%9C.jpg">](吃瓜/吃瓜.jpg)[<img src="%E5%90%83%E7%93%9C/%E5%90%83%E7%93%9C%E5%90%83%E4%B8%8D%E5%AE%8C.jpg">](吃瓜/吃瓜吃不完.jpg)[<img src="%E5%90%83%E7%93%9C/%E5%90%83%E7%93%9C%E7%BE%A4%E4%BC%97.gif">](吃瓜/吃瓜群众.gif)[<img src="%E5%90%83%E7%93%9C/%E5%90%83%E7%93%9C%E7%BE%A4%E4%BC%97.jpg">](吃瓜/吃瓜群众.jpg)
+
+---
+
+[懵逼](懵逼)
+
+[<img src="%E6%87%B5%E9%80%BC/Michael%E6%87%B5%E9%80%BC.jpeg">](懵逼/Michael懵逼.jpeg)[<img src="%E6%87%B5%E9%80%BC/%E4%B8%80%E8%84%B8%E6%87%B5%E9%80%BC.gif">](懵逼/一脸懵逼.gif)[<img src="%E6%87%B5%E9%80%BC/%E4%BD%93%E5%BF%83%E7%AB%8B%E6%96%B9%E6%87%B5%E9%80%BC.jpeg">](懵逼/体心立方懵逼.jpeg)[<img src="%E6%87%B5%E9%80%BC/%E5%B0%96%E6%99%B6%E7%9F%B3%E5%9E%8B%E6%87%B5%E9%80%BC.jpeg">](懵逼/尖晶石型懵逼.jpeg)[<img src="%E6%87%B5%E9%80%BC/%E6%87%B5%E9%80%BC%E5%81%B6%E5%83%8F%E7%BB%84%E5%90%88.jpg">](懵逼/懵逼偶像组合.jpg)[<img src="%E6%87%B5%E9%80%BC/%E7%AB%8B%E6%96%B9ZnS%E5%9E%8B%E6%87%B5%E9%80%BC.jpeg">](懵逼/立方ZnS型懵逼.jpeg)
+
+---
+
+[明目张胆违反规则](明目张胆违反规则)
+
+[<img src="%E6%98%8E%E7%9B%AE%E5%BC%A0%E8%83%86%E8%BF%9D%E5%8F%8D%E8%A7%84%E5%88%99/%E4%B8%A5%E7%A6%81%E6%91%86%E6%91%8A.jpg">](明目张胆违反规则/严禁摆摊.jpg)[<img src="%E6%98%8E%E7%9B%AE%E5%BC%A0%E8%83%86%E8%BF%9D%E5%8F%8D%E8%A7%84%E5%88%99/%E6%95%85%E6%84%8F%E6%8C%91%E4%BA%8B.jpg">](明目张胆违反规则/故意挑事.jpg)[<img src="%E6%98%8E%E7%9B%AE%E5%BC%A0%E8%83%86%E8%BF%9D%E5%8F%8D%E8%A7%84%E5%88%99/%E8%AF%B7%E5%8B%BF%E5%80%9A%E9%9D%A0%E7%8E%BB%E7%92%83.jpg">](明目张胆违反规则/请勿倚靠玻璃.jpg)
+
+---
+
+[爬](爬)
+
+[<img src="%E7%88%AC/50e5df62c7897c93289214adc18b5d0d.jpg">](爬/50e5df62c7897c93289214adc18b5d0d.jpg)[<img src="%E7%88%AC/539dca4a43a95c41454aa4b9f78c08c2.gif">](爬/539dca4a43a95c41454aa4b9f78c08c2.gif)[<img src="%E7%88%AC/726ecd92f8cc868ddbc27aab8f3d4ef9.jpg">](爬/726ecd92f8cc868ddbc27aab8f3d4ef9.jpg)[<img src="%E7%88%AC/9ed3cd98fea58c2363483db043affa5a.jpg">](爬/9ed3cd98fea58c2363483db043affa5a.jpg)[<img src="%E7%88%AC/b167df506650023bf5d24b98a9377145.jpg">](爬/b167df506650023bf5d24b98a9377145.jpg)[<img src="%E7%88%AC/f2290f06d062b99593930db355984b67.jpg">](爬/f2290f06d062b99593930db355984b67.jpg)
+
+---
+
+[社恐](社恐)
+
+[<img src="%E7%A4%BE%E6%81%90/117e7bba5a482a779414a52c1b29291d.jpg">](社恐/117e7bba5a482a779414a52c1b29291d.jpg)[<img src="%E7%A4%BE%E6%81%90/19004b54f22a3b9537ee1596d5dbc96f.jpg">](社恐/19004b54f22a3b9537ee1596d5dbc96f.jpg)[<img src="%E7%A4%BE%E6%81%90/2bd7fc512deae04bb81a2e96ab6aaee5.jpg">](社恐/2bd7fc512deae04bb81a2e96ab6aaee5.jpg)[<img src="%E7%A4%BE%E6%81%90/711e4d79fc99547db145b26255347cff.jpg">](社恐/711e4d79fc99547db145b26255347cff.jpg)[<img src="%E7%A4%BE%E6%81%90/958af79af1bb07224df91afc20bf49fa.jpg">](社恐/958af79af1bb07224df91afc20bf49fa.jpg)[<img src="%E7%A4%BE%E6%81%90/a1967727238e21c6552af9a247601d62.jpg">](社恐/a1967727238e21c6552af9a247601d62.jpg)
+
+---
+
+[网络暴力](网络暴力)
+
+[<img src="%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B/1583562805155.jpeg">](网络暴力/1583562805155.jpeg)

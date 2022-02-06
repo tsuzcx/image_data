@@ -1,0 +1,3 @@
+# 爱因斯坦
+
+[<img src="%E4%B8%87%E7%89%A9%E9%83%BD%E6%98%AF%E7%9B%B8%E5%AF%B9%E7%9A%84%E4%BD%86%E6%88%91%E5%AF%B9%E4%BD%A0%E7%9A%84%E5%BF%83%E6%98%AF%E7%BB%9D%E5%AF%B9%E7%9A%84.jpg">](万物都是相对的但我对你的心是绝对的.jpg)[<img src="%E6%B6%88%E5%85%83_%E5%86%B7%E9%9D%99.jpg">](消元_冷静.jpg)[<img src="%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6_%E4%B8%8D%E8%83%BD%E6%94%B9%E4%BA%86.jpg">](爱因斯坦_不能改了.jpg)[<img src="%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E5%8A%A8%E7%9C%BC%E7%9D%9B.gif">](爱因斯坦动眼睛.gif)
