@@ -48,12 +48,6 @@
 
 ---
 
-[调侃编程语言](%E8%B0%83%E4%BE%83%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
-
-[<img src="%E8%B0%83%E4%BE%83%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/-5255a139dc01d129.jpg" alt="-5255a139dc01d129" height=150px>](%E8%B0%83%E4%BE%83%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/-5255a139dc01d129.jpg)[<img src="%E8%B0%83%E4%BE%83%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%A5%E9%94%99.jpg" alt="python为什么报错" width=120px>](%E8%B0%83%E4%BE%83%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%A5%E9%94%99.jpg)
-
----
-
 [谷歌验证码](%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81%E7%A0%81)
 
 [<img src="%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81%E7%A0%81/bugs.png" alt="bugs" height=150px>](%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81%E7%A0%81/bugs.png)[<img src="%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81%E7%A0%81/%E8%B6%8A%E5%85%B1.jpg" alt="越共" height=150px>](%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81%E7%A0%81/%E8%B6%8A%E5%85%B1.jpg)
