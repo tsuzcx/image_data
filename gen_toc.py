@@ -12,7 +12,10 @@ img_max_width = 120
 img_max_height = 150
 
 def is_img_file(fn:str):
-    suf = fn.rsplit('.',1)[-1]
+    try:
+        _,suf = fn.rsplit('.',1)
+    except ValueError:
+        return False
     return suf not in sufs_ignore
 
 def url_join(s1,s2):

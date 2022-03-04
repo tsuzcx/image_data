@@ -2,7 +2,7 @@
 
 [bugcat_capoo](bugcat_capoo)
 
-[<img src="bugcat_capoo/99%E5%87%BA%E9%94%99.gif" alt="99出错" width=120px>](bugcat_capoo/99%E5%87%BA%E9%94%99.gif)[<img src="bugcat_capoo/go%E7%BF%BB%E6%BB%9A.gif" alt="go翻滚" width=120px>](bugcat_capoo/go%E7%BF%BB%E6%BB%9A.gif)[<img src="bugcat_capoo/%E4%B8%8B%E9%9B%A8%E7%94%A8%E4%BC%9E%E6%89%93%E4%B9%8C%E4%BA%91.gif" alt="下雨用伞打乌云" width=120px>](bugcat_capoo/%E4%B8%8B%E9%9B%A8%E7%94%A8%E4%BC%9E%E6%89%93%E4%B9%8C%E4%BA%91.gif)[<img src="bugcat_capoo/%E4%B8%AD%E6%9A%91.gif" alt="中暑" width=120px>](bugcat_capoo/%E4%B8%AD%E6%9A%91.gif)[<img src="bugcat_capoo/%E4%BE%A7%E8%BA%BA%E6%B5%81%E5%8F%A3%E6%B0%B4.jpg" alt="侧躺流口水" width=120px>](bugcat_capoo/%E4%BE%A7%E8%BA%BA%E6%B5%81%E5%8F%A3%E6%B0%B4.jpg)[<img src="bugcat_capoo/%E5%80%92%E4%B8%8B.gif" alt="倒下" width=120px>](bugcat_capoo/%E5%80%92%E4%B8%8B.gif)
+[<img src="bugcat_capoo/99%E5%87%BA%E9%94%99.gif" alt="99出错" width=120px>](bugcat_capoo/99%E5%87%BA%E9%94%99.gif)[<img src="bugcat_capoo/go%E7%BF%BB%E6%BB%9A.gif" alt="go翻滚" width=120px>](bugcat_capoo/go%E7%BF%BB%E6%BB%9A.gif)[<img src="bugcat_capoo/%E4%B8%8B%E9%9B%A8%E7%94%A8%E4%BC%9E%E6%89%93%E4%B9%8C%E4%BA%91.gif" alt="下雨用伞打乌云" width=120px>](bugcat_capoo/%E4%B8%8B%E9%9B%A8%E7%94%A8%E4%BC%9E%E6%89%93%E4%B9%8C%E4%BA%91.gif)[<img src="bugcat_capoo/%E4%B8%AD%E6%9A%91.gif" alt="中暑" width=120px>](bugcat_capoo/%E4%B8%AD%E6%9A%91.gif)[<img src="bugcat_capoo/%E4%BA%B2%E5%85%94%E5%AD%90%E6%B5%81%E9%BC%BB%E8%A1%80.gif" alt="亲兔子流鼻血" width=120px>](bugcat_capoo/%E4%BA%B2%E5%85%94%E5%AD%90%E6%B5%81%E9%BC%BB%E8%A1%80.gif)[<img src="bugcat_capoo/%E4%BE%A7%E8%BA%BA%E6%B5%81%E5%8F%A3%E6%B0%B4.jpg" alt="侧躺流口水" width=120px>](bugcat_capoo/%E4%BE%A7%E8%BA%BA%E6%B5%81%E5%8F%A3%E6%B0%B4.jpg)
 
 ---
 
