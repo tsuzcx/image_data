@@ -1,0 +1,3 @@
+# 亲戚
+
+[<img src="%E4%BA%B2%E6%88%9A%E7%A7%B0%E5%91%BC%E5%85%B3%E7%B3%BB%E5%9B%BE_%E5%A5%B3.png" alt="亲戚称呼关系图_女" width=120px>](%E4%BA%B2%E6%88%9A%E7%A7%B0%E5%91%BC%E5%85%B3%E7%B3%BB%E5%9B%BE_%E5%A5%B3.png)[<img src="%E4%BA%B2%E6%88%9A%E7%A7%B0%E5%91%BC%E5%85%B3%E7%B3%BB%E5%9B%BE_%E7%94%B7.png" alt="亲戚称呼关系图_男" width=120px>](%E4%BA%B2%E6%88%9A%E7%A7%B0%E5%91%BC%E5%85%B3%E7%B3%BB%E5%9B%BE_%E7%94%B7.png)

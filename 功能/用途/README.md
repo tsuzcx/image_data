@@ -6,6 +6,12 @@
 
 ---
 
+[书面图片](%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87)
+
+[<img src="%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%281%29.jpg" alt="Hsc(1)" width=120px>](%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%281%29.jpg)[<img src="%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%282%29.jpg" alt="Hsc(2)" width=120px>](%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%282%29.jpg)[<img src="%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%283%29.png" alt="Hsc(3)" width=120px>](%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%283%29.png)[<img src="%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%284%29.png" alt="Hsc(4)" width=120px>](%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%284%29.png)[<img src="%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%285%29.png" alt="Hsc(5)" width=120px>](%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%285%29.png)[<img src="%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%286%29.png" alt="Hsc(6)" height=150px>](%E4%B9%A6%E9%9D%A2%E5%9B%BE%E7%89%87/Hsc%286%29.png)
+
+---
+
 [原图](%E5%8E%9F%E5%9B%BE)
 
 [<img src="%E5%8E%9F%E5%9B%BE/%E5%90%A6%E5%AE%9A%E8%82%AF%E5%AE%9A.jpg" alt="否定肯定" height=150px>](%E5%8E%9F%E5%9B%BE/%E5%90%A6%E5%AE%9A%E8%82%AF%E5%AE%9A.jpg)[<img src="%E5%8E%9F%E5%9B%BE/%E5%BF%83%E8%B7%B3.jpeg" alt="心跳" width=120px>](%E5%8E%9F%E5%9B%BE/%E5%BF%83%E8%B7%B3.jpeg)[<img src="%E5%8E%9F%E5%9B%BE/%E6%8F%A1%E6%89%8B%E6%B4%97%E6%89%8B.jpeg" alt="握手洗手" height=150px>](%E5%8E%9F%E5%9B%BE/%E6%8F%A1%E6%89%8B%E6%B4%97%E6%89%8B.jpeg)[<img src="%E5%8E%9F%E5%9B%BE/%E6%B1%BD%E8%BD%A6%E6%8B%90%E5%BC%AF.jpeg" alt="汽车拐弯" width=120px>](%E5%8E%9F%E5%9B%BE/%E6%B1%BD%E8%BD%A6%E6%8B%90%E5%BC%AF.jpeg)[<img src="%E5%8E%9F%E5%9B%BE/%E7%94%B7%E5%9B%9E%E5%A4%B4%E7%9C%8B%E5%A5%B3.jpeg" alt="男回头看女" width=120px>](%E5%8E%9F%E5%9B%BE/%E7%94%B7%E5%9B%9E%E5%A4%B4%E7%9C%8B%E5%A5%B3.jpeg)[<img src="%E5%8E%9F%E5%9B%BE/%E7%B2%89%E7%BA%A2%E4%BA%BA.jpg" alt="粉红人" width=120px>](%E5%8E%9F%E5%9B%BE/%E7%B2%89%E7%BA%A2%E4%BA%BA.jpg)

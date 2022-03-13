@@ -1,0 +1,3 @@
+# 软件
+
+[<img src="%E5%9C%A8word%E4%B8%AD%E7%A7%BB%E5%8A%A8%E5%9B%BE%E7%89%87.jpg" alt="在word中移动图片" width=120px>](%E5%9C%A8word%E4%B8%AD%E7%A7%BB%E5%8A%A8%E5%9B%BE%E7%89%87.jpg)[<img src="%E6%8E%B0%E6%96%AD%E5%86%85%E5%AD%98.jpg" alt="掰断内存" width=120px>](%E6%8E%B0%E6%96%AD%E5%86%85%E5%AD%98.jpg)[<img src="%E9%80%89%E6%8B%A9%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.jpg" alt="选择操作系统" width=120px>](%E9%80%89%E6%8B%A9%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.jpg)
