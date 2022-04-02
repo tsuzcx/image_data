@@ -68,7 +68,11 @@ def format_img(rfn:str,pfn:str):
     name = pfn.rsplit('/',1)[-1]
     name = name.rsplit('.',1)[0]
     args.append(f'alt="{name}"')
-    t = plt.imread(rfn)
+    try:
+        t = plt.imread(rfn)
+    except Exception as e:
+        t = None
+        print(repr(e))
     if t is None:
         print(rfn)
     h,w,*_ = t.shape

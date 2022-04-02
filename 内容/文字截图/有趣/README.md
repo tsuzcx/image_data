@@ -8,7 +8,7 @@
 
 [九宫格阵营图](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE)
 
-[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E6%91%84%E5%BD%B1.jpg" alt="摄影" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E6%91%84%E5%BD%B1.jpg)[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E7%99%BE%E5%90%88.jpg" alt="百合" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E7%99%BE%E5%90%88.jpg)[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E7%B2%BD%E5%AD%90.jpg" alt="粽子" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E7%B2%BD%E5%AD%90.jpg)[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E9%A5%BA%E5%AD%90.jpg" alt="饺子" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E9%A5%BA%E5%AD%90.jpg)
+[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/b%E7%AB%99.jpg" alt="b站" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/b%E7%AB%99.jpg)[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E6%91%84%E5%BD%B1.jpg" alt="摄影" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E6%91%84%E5%BD%B1.jpg)[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E6%AF%95%E5%AF%BC%E6%B3%A1%E9%9D%A2.jpg" alt="毕导泡面" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E6%AF%95%E5%AF%BC%E6%B3%A1%E9%9D%A2.jpg)[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E7%99%BE%E5%90%88.jpg" alt="百合" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E7%99%BE%E5%90%88.jpg)[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E7%B2%BD%E5%AD%90.jpg" alt="粽子" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E7%B2%BD%E5%AD%90.jpg)[<img src="%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E9%A5%BA%E5%AD%90.jpg" alt="饺子" width=120px>](%E4%B9%9D%E5%AE%AB%E6%A0%BC%E9%98%B5%E8%90%A5%E5%9B%BE/%E9%A5%BA%E5%AD%90.jpg)
 
 ---
 
@@ -33,9 +33,3 @@
 [谐音](%E8%B0%90%E9%9F%B3)
 
 [<img src="%E8%B0%90%E9%9F%B3/314564965828957f7dacf255576217b7.jpg" alt="314564965828957f7dacf255576217b7" width=120px>](%E8%B0%90%E9%9F%B3/314564965828957f7dacf255576217b7.jpg)[<img src="%E8%B0%90%E9%9F%B3/33e3dc7b7cfa6d6c5b5df2533520fbe1.jpg" alt="33e3dc7b7cfa6d6c5b5df2533520fbe1" width=120px>](%E8%B0%90%E9%9F%B3/33e3dc7b7cfa6d6c5b5df2533520fbe1.jpg)[<img src="%E8%B0%90%E9%9F%B3/348333a6d9ac9c13d0e822be1e7209e9.jpg" alt="348333a6d9ac9c13d0e822be1e7209e9" width=120px>](%E8%B0%90%E9%9F%B3/348333a6d9ac9c13d0e822be1e7209e9.jpg)[<img src="%E8%B0%90%E9%9F%B3/602f1d2fffb9c57660fb97164e601fda.jpg" alt="602f1d2fffb9c57660fb97164e601fda" height=150px>](%E8%B0%90%E9%9F%B3/602f1d2fffb9c57660fb97164e601fda.jpg)[<img src="%E8%B0%90%E9%9F%B3/749706aee8d5d00493c89f84f7a9ca5a.jpg" alt="749706aee8d5d00493c89f84f7a9ca5a" width=120px>](%E8%B0%90%E9%9F%B3/749706aee8d5d00493c89f84f7a9ca5a.jpg)[<img src="%E8%B0%90%E9%9F%B3/79703db56f66a1b99bffc0caa0bfc285.jpg" alt="79703db56f66a1b99bffc0caa0bfc285" width=120px>](%E8%B0%90%E9%9F%B3/79703db56f66a1b99bffc0caa0bfc285.jpg)
-
----
-
-[软件](%E8%BD%AF%E4%BB%B6)
-
-[<img src="%E8%BD%AF%E4%BB%B6/%E5%9C%A8word%E4%B8%AD%E7%A7%BB%E5%8A%A8%E5%9B%BE%E7%89%87.jpg" alt="在word中移动图片" width=120px>](%E8%BD%AF%E4%BB%B6/%E5%9C%A8word%E4%B8%AD%E7%A7%BB%E5%8A%A8%E5%9B%BE%E7%89%87.jpg)[<img src="%E8%BD%AF%E4%BB%B6/%E6%8E%B0%E6%96%AD%E5%86%85%E5%AD%98.jpg" alt="掰断内存" width=120px>](%E8%BD%AF%E4%BB%B6/%E6%8E%B0%E6%96%AD%E5%86%85%E5%AD%98.jpg)[<img src="%E8%BD%AF%E4%BB%B6/%E9%80%89%E6%8B%A9%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.jpg" alt="选择操作系统" width=120px>](%E8%BD%AF%E4%BB%B6/%E9%80%89%E6%8B%A9%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.jpg)

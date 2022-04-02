@@ -18,4 +18,4 @@
 
 ---
 
-[<img src="erhuluanzi.gif" alt="erhuluanzi">](erhuluanzi.gif)
+[<img src="erhuluanzi.gif" alt="erhuluanzi">](erhuluanzi.gif)[<img src="%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B0%8F%E6%81%90%E9%BE%99.gif" alt="谷歌浏览器小恐龙" width=120px>](%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B0%8F%E6%81%90%E9%BE%99.gif)
