@@ -68,7 +68,7 @@
 
 [嘉然](%E5%98%89%E7%84%B6)
 
-[<img src="%E5%98%89%E7%84%B6/10000.jpg" alt="10000" width=120px>](%E5%98%89%E7%84%B6/10000.jpg)[<img src="%E5%98%89%E7%84%B6/180.jpg" alt="180" width=120px>](%E5%98%89%E7%84%B6/180.jpg)[<img src="%E5%98%89%E7%84%B6/biu.jpg" alt="biu" width=120px>](%E5%98%89%E7%84%B6/biu.jpg)[<img src="%E5%98%89%E7%84%B6/linux.jpg" alt="linux" width=120px>](%E5%98%89%E7%84%B6/linux.jpg)[<img src="%E5%98%89%E7%84%B6/mua.jpg" alt="mua" width=120px>](%E5%98%89%E7%84%B6/mua.jpg)[<img src="%E5%98%89%E7%84%B6/No.jpg" alt="No" width=120px>](%E5%98%89%E7%84%B6/No.jpg)
+[<img src="%E5%98%89%E7%84%B6/10000.gif" alt="10000" width=120px>](%E5%98%89%E7%84%B6/10000.gif)[<img src="%E5%98%89%E7%84%B6/10000.jpg" alt="10000" width=120px>](%E5%98%89%E7%84%B6/10000.jpg)[<img src="%E5%98%89%E7%84%B6/180.jpg" alt="180" width=120px>](%E5%98%89%E7%84%B6/180.jpg)[<img src="%E5%98%89%E7%84%B6/64dbce4f718cab102a55edc60466ec01.gif" alt="64dbce4f718cab102a55edc60466ec01" width=120px>](%E5%98%89%E7%84%B6/64dbce4f718cab102a55edc60466ec01.gif)[<img src="%E5%98%89%E7%84%B6/b14f45bd2854ab12f697e0b4e56f020c.gif" alt="b14f45bd2854ab12f697e0b4e56f020c" width=120px>](%E5%98%89%E7%84%B6/b14f45bd2854ab12f697e0b4e56f020c.gif)[<img src="%E5%98%89%E7%84%B6/biu.jpg" alt="biu" width=120px>](%E5%98%89%E7%84%B6/biu.jpg)
 
 ---
 

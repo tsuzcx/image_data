@@ -1,3 +1,3 @@
 # 水獭
 
-[<img src="-2c423d2a768b8a88.gif" alt="-2c423d2a768b8a88" width=120px>](-2c423d2a768b8a88.gif)[<img src="%E6%84%A3%E4%BD%8F.jpg" alt="愣住" width=120px>](%E6%84%A3%E4%BD%8F.jpg)[<img src="%E6%8F%89%E7%9C%BC%E7%9D%9B_st.gif" alt="揉眼睛_st">](%E6%8F%89%E7%9C%BC%E7%9D%9B_st.gif)
+[<img src="%E5%93%BC.jpg" alt="哼" width=120px>](%E5%93%BC.jpg)[<img src="%E6%84%A3%E4%BD%8F.jpg" alt="愣住" width=120px>](%E6%84%A3%E4%BD%8F.jpg)[<img src="%E6%8F%89%E7%9C%BC%E7%9D%9B_st.gif" alt="揉眼睛_st">](%E6%8F%89%E7%9C%BC%E7%9D%9B_st.gif)[<img src="%E8%BF%90%E5%8A%A8%E9%87%8F.jpg" alt="运动量" width=120px>](%E8%BF%90%E5%8A%A8%E9%87%8F.jpg)[<img src="%E9%BC%93%E6%8E%8C.gif" alt="鼓掌" width=120px>](%E9%BC%93%E6%8E%8C.gif)
