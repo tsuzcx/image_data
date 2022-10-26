@@ -14,7 +14,7 @@
 
 [IE浏览器_IE酱](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1)
 
-[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/09dd44cf14f52c0ca682cad410cab15e.jpg" alt="09dd44cf14f52c0ca682cad410cab15e" height=150px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/09dd44cf14f52c0ca682cad410cab15e.jpg)[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/50d8b1a35f3f206a97498c246803f4ce.jpg" alt="50d8b1a35f3f206a97498c246803f4ce" height=150px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/50d8b1a35f3f206a97498c246803f4ce.jpg)[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/6ad635cc3c356598c3caa20e94cfa337.jpg" alt="6ad635cc3c356598c3caa20e94cfa337" height=150px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/6ad635cc3c356598c3caa20e94cfa337.jpg)[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/8a1319f470663161aa696fee73c19fe7.jpg" alt="8a1319f470663161aa696fee73c19fe7" height=150px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/8a1319f470663161aa696fee73c19fe7.jpg)[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/a8d0ffa0f8c686dfba43e943603c76f4.gif" alt="a8d0ffa0f8c686dfba43e943603c76f4" width=120px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/a8d0ffa0f8c686dfba43e943603c76f4.gif)
+[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/-57e4c6f2870da90.jpg" alt="-57e4c6f2870da90" height=150px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/-57e4c6f2870da90.jpg)[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/09dd44cf14f52c0ca682cad410cab15e.jpg" alt="09dd44cf14f52c0ca682cad410cab15e" height=150px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/09dd44cf14f52c0ca682cad410cab15e.jpg)[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/50d8b1a35f3f206a97498c246803f4ce.jpg" alt="50d8b1a35f3f206a97498c246803f4ce" height=150px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/50d8b1a35f3f206a97498c246803f4ce.jpg)[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/6ad635cc3c356598c3caa20e94cfa337.jpg" alt="6ad635cc3c356598c3caa20e94cfa337" height=150px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/6ad635cc3c356598c3caa20e94cfa337.jpg)[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/8a1319f470663161aa696fee73c19fe7.jpg" alt="8a1319f470663161aa696fee73c19fe7" height=150px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/8a1319f470663161aa696fee73c19fe7.jpg)[<img src="IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/a8d0ffa0f8c686dfba43e943603c76f4.gif" alt="a8d0ffa0f8c686dfba43e943603c76f4" width=120px>](IE%E6%B5%8F%E8%A7%88%E5%99%A8_IE%E9%85%B1/a8d0ffa0f8c686dfba43e943603c76f4.gif)
 
 ---
 
@@ -60,9 +60,15 @@
 
 ---
 
+[shalldie.background](shalldie.background)
+
+[<img src="shalldie.background/1.png" alt="1" height=150px>](shalldie.background/1.png)[<img src="shalldie.background/2.png" alt="2" height=150px>](shalldie.background/2.png)[<img src="shalldie.background/3.png" alt="3" height=150px>](shalldie.background/3.png)
+
+---
+
 [其他](%E5%85%B6%E4%BB%96)
 
-[<img src="%E5%85%B6%E4%BB%96/excuse_me.jpg" alt="excuse_me" width=120px>](%E5%85%B6%E4%BB%96/excuse_me.jpg)[<img src="%E5%85%B6%E4%BB%96/nya.gif" alt="nya" width=120px>](%E5%85%B6%E4%BB%96/nya.gif)[<img src="%E5%85%B6%E4%BB%96/pornhub.jpg" alt="pornhub" width=120px>](%E5%85%B6%E4%BB%96/pornhub.jpg)[<img src="%E5%85%B6%E4%BB%96/sb%E7%BD%91%E5%8F%8B%E5%8F%91%E7%9A%84%E4%BB%80%E4%B9%88jb.jpg" alt="sb网友发的什么jb" width=120px>](%E5%85%B6%E4%BB%96/sb%E7%BD%91%E5%8F%8B%E5%8F%91%E7%9A%84%E4%BB%80%E4%B9%88jb.jpg)[<img src="%E5%85%B6%E4%BB%96/wtf%EF%BC%9F%EF%BC%9F%EF%BC%9F.jpg" alt="wtf？？？" width=120px>](%E5%85%B6%E4%BB%96/wtf%EF%BC%9F%EF%BC%9F%EF%BC%9F.jpg)[<img src="%E5%85%B6%E4%BB%96/%E4%B8%80%E8%88%AC.jpg" alt="一般" height=150px>](%E5%85%B6%E4%BB%96/%E4%B8%80%E8%88%AC.jpg)
+[<img src="%E5%85%B6%E4%BB%96/excuse_me.jpg" alt="excuse_me" width=120px>](%E5%85%B6%E4%BB%96/excuse_me.jpg)[<img src="%E5%85%B6%E4%BB%96/nya.gif" alt="nya" width=120px>](%E5%85%B6%E4%BB%96/nya.gif)[<img src="%E5%85%B6%E4%BB%96/porn.jpeg" alt="porn" height=150px>](%E5%85%B6%E4%BB%96/porn.jpeg)[<img src="%E5%85%B6%E4%BB%96/pornhub.jpg" alt="pornhub" width=120px>](%E5%85%B6%E4%BB%96/pornhub.jpg)[<img src="%E5%85%B6%E4%BB%96/sb%E7%BD%91%E5%8F%8B%E5%8F%91%E7%9A%84%E4%BB%80%E4%B9%88jb.jpg" alt="sb网友发的什么jb" width=120px>](%E5%85%B6%E4%BB%96/sb%E7%BD%91%E5%8F%8B%E5%8F%91%E7%9A%84%E4%BB%80%E4%B9%88jb.jpg)[<img src="%E5%85%B6%E4%BB%96/sm%E4%B8%8B%E8%BD%BD%E5%9E%83%E5%9C%BE%E8%BD%AF%E4%BB%B6.jpg" alt="sm下载垃圾软件" height=150px>](%E5%85%B6%E4%BB%96/sm%E4%B8%8B%E8%BD%BD%E5%9E%83%E5%9C%BE%E8%BD%AF%E4%BB%B6.jpg)
 
 ---
 
