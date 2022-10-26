@@ -1,0 +1,3 @@
+# 典孝急
+
+[<img src="%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E6%97%B6%E4%BB%A3%E6%A6%82%E5%BF%B5%E8%B1%A1%E6%A3%8B.jpeg" alt="互联网新时代概念象棋" width=120px>](%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E6%97%B6%E4%BB%A3%E6%A6%82%E5%BF%B5%E8%B1%A1%E6%A3%8B.jpeg)[<img src="%E5%85%B8%E5%AD%9D%E6%80%A5%E6%A3%8B.jpeg" alt="典孝急棋" width=120px>](%E5%85%B8%E5%AD%9D%E6%80%A5%E6%A3%8B.jpeg)[<img src="%E5%85%B8%EF%BC%8C%E6%80%A5%EF%BC%8C%E5%AD%9D.jpeg" alt="典，急，孝" width=120px>](%E5%85%B8%EF%BC%8C%E6%80%A5%EF%BC%8C%E5%AD%9D.jpeg)[<img src="%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83.jpg" alt="石头剪刀布" height=150px>](%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83.jpg)

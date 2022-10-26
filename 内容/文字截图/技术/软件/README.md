@@ -8,13 +8,13 @@
 
 [windows](windows)
 
-[<img src="windows/win10%E8%93%9D%E5%B1%8F.jpg" alt="win10蓝屏" width=120px>](windows/win10%E8%93%9D%E5%B1%8F.jpg)[<img src="windows/Windows10%E7%9A%84LOGO_%E6%98%AF%E8%BF%99%E6%A0%B7%E6%9D%A5%E7%9A%84.jpg" alt="Windows10的LOGO_是这样来的" width=120px>](windows/Windows10%E7%9A%84LOGO_%E6%98%AF%E8%BF%99%E6%A0%B7%E6%9D%A5%E7%9A%84.jpg)[<img src="windows/windows%E4%BB%8E%E7%94%B5%E8%84%91%E4%B8%8A%E5%88%A0%E9%99%A4.jpg" alt="windows从电脑上删除" width=120px>](windows/windows%E4%BB%8E%E7%94%B5%E8%84%91%E4%B8%8A%E5%88%A0%E9%99%A4.jpg)[<img src="windows/windows%E6%AD%A3%E5%9C%A8%E6%83%B3%E5%8A%9E%E6%B3%95%E8%93%9D%E5%B1%8F.gif" alt="windows正在想办法蓝屏" width=120px>](windows/windows%E6%AD%A3%E5%9C%A8%E6%83%B3%E5%8A%9E%E6%B3%95%E8%93%9D%E5%B1%8F.gif)[<img src="windows/%E4%BD%A0%E7%9A%84%E7%94%B5%E8%84%91%E6%B2%A1%E6%9C%89%E9%97%AE%E9%A2%98%EF%BC%8C%E4%BD%86%E8%BF%98%E6%98%AF%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E5%B1%80%E5%8A%A8%E3%80%82_.png" alt="你的电脑没有问题，但还是需要重新局动。_" width=120px>](windows/%E4%BD%A0%E7%9A%84%E7%94%B5%E8%84%91%E6%B2%A1%E6%9C%89%E9%97%AE%E9%A2%98%EF%BC%8C%E4%BD%86%E8%BF%98%E6%98%AF%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E5%B1%80%E5%8A%A8%E3%80%82_.png)[<img src="windows/%E4%BD%A0%E7%9A%84%E8%AE%BE%E5%A4%87%E9%9D%9E%E5%B8%B8%E5%AE%B3%E6%80%95.jpg" alt="你的设备非常害怕" width=120px>](windows/%E4%BD%A0%E7%9A%84%E8%AE%BE%E5%A4%87%E9%9D%9E%E5%B8%B8%E5%AE%B3%E6%80%95.jpg)
+[<img src="windows/win10%E8%93%9D%E5%B1%8F.jpg" alt="win10蓝屏" width=120px>](windows/win10%E8%93%9D%E5%B1%8F.jpg)[<img src="windows/Windows10%E7%9A%84LOGO_%E6%98%AF%E8%BF%99%E6%A0%B7%E6%9D%A5%E7%9A%84.jpg" alt="Windows10的LOGO_是这样来的" width=120px>](windows/Windows10%E7%9A%84LOGO_%E6%98%AF%E8%BF%99%E6%A0%B7%E6%9D%A5%E7%9A%84.jpg)[<img src="windows/windows%E4%BB%8E%E7%94%B5%E8%84%91%E4%B8%8A%E5%88%A0%E9%99%A4.jpg" alt="windows从电脑上删除" width=120px>](windows/windows%E4%BB%8E%E7%94%B5%E8%84%91%E4%B8%8A%E5%88%A0%E9%99%A4.jpg)[<img src="windows/windows%E6%AD%A3%E5%9C%A8%E6%83%B3%E5%8A%9E%E6%B3%95%E8%93%9D%E5%B1%8F.gif" alt="windows正在想办法蓝屏" width=120px>](windows/windows%E6%AD%A3%E5%9C%A8%E6%83%B3%E5%8A%9E%E6%B3%95%E8%93%9D%E5%B1%8F.gif)[<img src="windows/word%E7%A7%BB%E5%8A%A8%E5%9B%BE%E7%89%87.jpg" alt="word移动图片" width=120px>](windows/word%E7%A7%BB%E5%8A%A8%E5%9B%BE%E7%89%87.jpg)[<img src="windows/%E4%BD%A0%E7%9A%84%E7%94%B5%E8%84%91%E6%B2%A1%E6%9C%89%E9%97%AE%E9%A2%98%EF%BC%8C%E4%BD%86%E8%BF%98%E6%98%AF%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E5%B1%80%E5%8A%A8%E3%80%82_.png" alt="你的电脑没有问题，但还是需要重新局动。_" width=120px>](windows/%E4%BD%A0%E7%9A%84%E7%94%B5%E8%84%91%E6%B2%A1%E6%9C%89%E9%97%AE%E9%A2%98%EF%BC%8C%E4%BD%86%E8%BF%98%E6%98%AF%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E5%B1%80%E5%8A%A8%E3%80%82_.png)
 
 ---
 
 [吃内存](%E5%90%83%E5%86%85%E5%AD%98)
 
-[<img src="%E5%90%83%E5%86%85%E5%AD%98/chrome.gif" alt="chrome" width=120px>](%E5%90%83%E5%86%85%E5%AD%98/chrome.gif)
+[<img src="%E5%90%83%E5%86%85%E5%AD%98/chrome.gif" alt="chrome" width=120px>](%E5%90%83%E5%86%85%E5%AD%98/chrome.gif)[<img src="%E5%90%83%E5%86%85%E5%AD%98/chrome.jpg" alt="chrome" width=120px>](%E5%90%83%E5%86%85%E5%AD%98/chrome.jpg)
 
 ---
 
