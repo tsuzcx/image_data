@@ -2,25 +2,31 @@
 
 [bugcat_capoo](bugcat_capoo)
 
-[<img src="bugcat_capoo/99%E5%87%BA%E9%94%99.gif" alt="99出错" width=120px>](bugcat_capoo/99%E5%87%BA%E9%94%99.gif)[<img src="bugcat_capoo/good.gif" alt="good" width=120px>](bugcat_capoo/good.gif)[<img src="bugcat_capoo/go%E7%BF%BB%E6%BB%9A.gif" alt="go翻滚" width=120px>](bugcat_capoo/go%E7%BF%BB%E6%BB%9A.gif)[<img src="bugcat_capoo/%E4%B8%8B%E9%9B%A8%E7%94%A8%E4%BC%9E%E6%89%93%E4%B9%8C%E4%BA%91.gif" alt="下雨用伞打乌云" width=120px>](bugcat_capoo/%E4%B8%8B%E9%9B%A8%E7%94%A8%E4%BC%9E%E6%89%93%E4%B9%8C%E4%BA%91.gif)[<img src="bugcat_capoo/%E4%B8%A4%E8%BE%B9%E6%8D%85.gif" alt="两边捅" width=120px>](bugcat_capoo/%E4%B8%A4%E8%BE%B9%E6%8D%85.gif)[<img src="bugcat_capoo/%E4%B8%AD%E6%9A%91.gif" alt="中暑" width=120px>](bugcat_capoo/%E4%B8%AD%E6%9A%91.gif)
+[<img src="bugcat_capoo/-4352b6974bf82709.gif" alt="-4352b6974bf82709" width=120px>](bugcat_capoo/-4352b6974bf82709.gif)[<img src="bugcat_capoo/-729fb96491030ffd.gif" alt="-729fb96491030ffd">](bugcat_capoo/-729fb96491030ffd.gif)[<img src="bugcat_capoo/273d4127fea6169b.gif" alt="273d4127fea6169b" width=120px>](bugcat_capoo/273d4127fea6169b.gif)[<img src="bugcat_capoo/293bc4bb05e7b176.gif" alt="293bc4bb05e7b176" width=120px>](bugcat_capoo/293bc4bb05e7b176.gif)[<img src="bugcat_capoo/99%E5%87%BA%E9%94%99.gif" alt="99出错" width=120px>](bugcat_capoo/99%E5%87%BA%E9%94%99.gif)[<img src="bugcat_capoo/good.gif" alt="good" width=120px>](bugcat_capoo/good.gif)
 
 ---
 
 [eveonecat](eveonecat)
 
-[<img src="eveonecat/123%E6%98%9F%E6%98%9F.gif" alt="123星星" width=120px>](eveonecat/123%E6%98%9F%E6%98%9F.gif)[<img src="eveonecat/happy%20100%20cats.gif" alt="happy 100 cats" width=120px>](eveonecat/happy%20100%20cats.gif)[<img src="eveonecat/happy%2030%20cats.gif" alt="happy 30 cats" width=120px>](eveonecat/happy%2030%20cats.gif)[<img src="eveonecat/hasaki.jpg" alt="hasaki" width=120px>](eveonecat/hasaki.jpg)[<img src="eveonecat/UFO%E4%B8%8B.gif" alt="UFO下" width=120px>](eveonecat/UFO%E4%B8%8B.gif)[<img src="eveonecat/%E4%B8%87%E4%BA%BA%E6%97%8B%E8%BD%AC.gif" alt="万人旋转" width=120px>](eveonecat/%E4%B8%87%E4%BA%BA%E6%97%8B%E8%BD%AC.gif)
+[<img src="eveonecat/123%E6%98%9F%E6%98%9F.gif" alt="123星星" width=120px>](eveonecat/123%E6%98%9F%E6%98%9F.gif)[<img src="eveonecat/happy%20100%20cats.gif" alt="happy 100 cats" width=120px>](eveonecat/happy%20100%20cats.gif)[<img src="eveonecat/happy%2030%20cats.gif" alt="happy 30 cats" width=120px>](eveonecat/happy%2030%20cats.gif)[<img src="eveonecat/hasaki.jpg" alt="hasaki" width=120px>](eveonecat/hasaki.jpg)[<img src="eveonecat/jb.jpg" alt="jb" width=120px>](eveonecat/jb.jpg)[<img src="eveonecat/UFO%E4%B8%8B.gif" alt="UFO下" width=120px>](eveonecat/UFO%E4%B8%8B.gif)
 
 ---
 
 [pusheen](pusheen)
 
-[<img src="pusheen/9%E7%A7%8D.gif" alt="9种" width=120px>](pusheen/9%E7%A7%8D.gif)[<img src="pusheen/burrito.gif" alt="burrito" width=120px>](pusheen/burrito.gif)[<img src="pusheen/nutella.gif" alt="nutella" width=120px>](pusheen/nutella.gif)[<img src="pusheen/popeen.jpg" alt="popeen" width=120px>](pusheen/popeen.jpg)[<img src="pusheen/seal.gif" alt="seal" width=120px>](pusheen/seal.gif)[<img src="pusheen/%E5%8F%A0.gif" alt="叠" width=120px>](pusheen/%E5%8F%A0.gif)
+[<img src="pusheen/9%E7%A7%8D.gif" alt="9种" width=120px>](pusheen/9%E7%A7%8D.gif)[<img src="pusheen/burrito.gif" alt="burrito" width=120px>](pusheen/burrito.gif)[<img src="pusheen/git_rm.jpg" alt="git_rm" width=120px>](pusheen/git_rm.jpg)[<img src="pusheen/nutella.gif" alt="nutella" width=120px>](pusheen/nutella.gif)[<img src="pusheen/popeen.jpg" alt="popeen" width=120px>](pusheen/popeen.jpg)[<img src="pusheen/seal.gif" alt="seal" width=120px>](pusheen/seal.gif)
 
 ---
 
 [其他](%E5%85%B6%E4%BB%96)
 
 [<img src="%E5%85%B6%E4%BB%96/2dd96dbfd12f3b4615b72d2854b4bc1a.jpg" alt="2dd96dbfd12f3b4615b72d2854b4bc1a">](%E5%85%B6%E4%BB%96/2dd96dbfd12f3b4615b72d2854b4bc1a.jpg)[<img src="%E5%85%B6%E4%BB%96/337095965956E65A7BDD77B0D3DD906357E717DE0.jpg" alt="337095965956E65A7BDD77B0D3DD906357E717DE0" width=120px>](%E5%85%B6%E4%BB%96/337095965956E65A7BDD77B0D3DD906357E717DE0.jpg)[<img src="%E5%85%B6%E4%BB%96/EAE311665F287EEDE3DA162FC403F646.jpg" alt="EAE311665F287EEDE3DA162FC403F646">](%E5%85%B6%E4%BB%96/EAE311665F287EEDE3DA162FC403F646.jpg)[<img src="%E5%85%B6%E4%BB%96/f46a12738de43fd86cb5458f6fa9d6fd.gif" alt="f46a12738de43fd86cb5458f6fa9d6fd" width=120px>](%E5%85%B6%E4%BB%96/f46a12738de43fd86cb5458f6fa9d6fd.gif)[<img src="%E5%85%B6%E4%BB%96/S3E8%7DF2TX07OD6%28J%24%60Z5%258M.jpg" alt="S3E8}F2TX07OD6(J$`Z5%8M" width=120px>](%E5%85%B6%E4%BB%96/S3E8%7DF2TX07OD6%28J%24%60Z5%258M.jpg)[<img src="%E5%85%B6%E4%BB%96/thwap.gif" alt="thwap" width=120px>](%E5%85%B6%E4%BB%96/thwap.gif)
+
+---
+
+[咖啡](%E5%92%96%E5%95%A1)
+
+[<img src="%E5%92%96%E5%95%A1/44bf7ea87417cdd434cd6caed617c1e3.jpeg" alt="44bf7ea87417cdd434cd6caed617c1e3" width=120px>](%E5%92%96%E5%95%A1/44bf7ea87417cdd434cd6caed617c1e3.jpeg)[<img src="%E5%92%96%E5%95%A1/47bf1fe9cdaff12c238b28e2b3a79ef9.jpeg" alt="47bf1fe9cdaff12c238b28e2b3a79ef9" width=120px>](%E5%92%96%E5%95%A1/47bf1fe9cdaff12c238b28e2b3a79ef9.jpeg)[<img src="%E5%92%96%E5%95%A1/ba0bbba28a296ef08148c98ee2dfb70c.jpeg" alt="ba0bbba28a296ef08148c98ee2dfb70c" width=120px>](%E5%92%96%E5%95%A1/ba0bbba28a296ef08148c98ee2dfb70c.jpeg)[<img src="%E5%92%96%E5%95%A1/c5fbc5458d2178659e71a26618572bd8.jpeg" alt="c5fbc5458d2178659e71a26618572bd8" width=120px>](%E5%92%96%E5%95%A1/c5fbc5458d2178659e71a26618572bd8.jpeg)[<img src="%E5%92%96%E5%95%A1/ef1898a47cfe8e36d5a04f514b7cf2c2.jpeg" alt="ef1898a47cfe8e36d5a04f514b7cf2c2" width=120px>](%E5%92%96%E5%95%A1/ef1898a47cfe8e36d5a04f514b7cf2c2.jpeg)
 
 ---
 
